@@ -11,6 +11,6 @@
 </div>
 
 <div fontAlign=center>
-<img src=https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&animation=fadeIn&section=footer&fontAlign=50>
+<img src=https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&animation=fadeIn&section=footer>
 </div>
 
