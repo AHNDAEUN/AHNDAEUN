@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&animation=fadeIn&section=header&text=welcome&fontAlign=center)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&animation=fadeIn&section=header&text=welcome&fontAlign=50)
 
 
 <a href="s">
