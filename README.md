@@ -29,7 +29,7 @@
 </div>
 <br>
 <div align=center>
-	<p>🛠 Tools 🛠</p>
+	<p>⚙Tools⚙</p>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
@@ -40,13 +40,13 @@
 </div>
 <br>
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
+	<p>⚙ SNS & Portfolio ⚙</p>
 </div>
 <div align=center>
 	<a href="dksekdms3710@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-	<a href="https://www.notion.so/ffd4f0b5bb97410f89ff5a6e0f52c4b7">
+	<a href="https://www.notion.so/Backend-Programmer-dbc41723eea5405ab9edd1900a9dcf18" >
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<br>
