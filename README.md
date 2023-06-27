@@ -5,10 +5,6 @@
     <a href="" target="_blank"><img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=📚tech stack📚&logoColor=white"/></a>
 
 
-                                                         
-                                                         
-                                                         📌Platforms & Languages📌
-
  <a href="java" target="_blank"><img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
 
 
