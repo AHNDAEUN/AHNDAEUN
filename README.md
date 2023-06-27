@@ -1,5 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&animation=fadeIn&section=header&text=welcome&fontAlign=50)
+##![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&animation=fadeIn&section=header&text=welcome&fontAlign=50)
+<div fontAlifn=center>
+<img src=https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&fontSize=30&text=안녕하세요%20백엔드%20개발자%20송
+  지혜입니다%20😆" />
+</div>
+
+  
+</div>
 
                                                       
     <a href="" target="_blank"><img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=📚tech stack📚&logoColor=white"/></a>
