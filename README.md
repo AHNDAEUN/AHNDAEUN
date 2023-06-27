@@ -6,7 +6,8 @@
 <div Align=center>
 
 <h3> ✨tech stack✨</h3>  
-
+<br>
+<p>🔗Platforms & Languages🔗</p>
 
 </div>
 
