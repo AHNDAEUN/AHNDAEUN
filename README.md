@@ -3,7 +3,7 @@
 </div>
 
   
-<div Align=center>
+<div Align="center">
 
 <h3> ✨tech stack✨</h3>  
 <br>
