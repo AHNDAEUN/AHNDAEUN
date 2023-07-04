@@ -1,5 +1,5 @@
 <div fontAlign=center>
-<img src=https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=fadeIn&section=header&text=welcome>
+<img src=https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=fadeIn&section=header&text="안녕하세요 백엔드개발자 안다은입니다">
 </div>
 
   
