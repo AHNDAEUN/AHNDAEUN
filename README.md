@@ -1,5 +1,5 @@
 <div fontAlign=center>
-<img src=https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=fadeIn&section=header&text="안녕하세요%20백엔드%20개발자%20안다은입니다%20">
+<img src=https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=fadeIn&section=header&text="안녕하세요%30백엔드%30개발자%30안다은입니다%30">
 </div>
 
   
@@ -7,7 +7,7 @@
 
 <h3> ✨tech stack✨</h3>  
 <br>
-<p>🔗Platforms & Languages🔗</p>
+<p>💻Platforms & Languages💻</p>
 
 </div>
 
@@ -40,7 +40,7 @@
 </div>
 <br>
 <div align=center>
-	<p>⚙ SNS & Portfolio ⚙</p>
+	<p>🔗 SNS & Portfolio 🔗</p>
 </div>
 <div align=center>
 	<a href="dksekdms3710@gmail.com">
