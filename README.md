@@ -39,16 +39,7 @@
   	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 </div>
 <br>
-<div align=center>
-	<p>🔗 SNS & Portfolio 🔗</p>
-</div>
-<div align=center>
-	<a href="dksekdms3710@gmail.com">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-	</a>
-	<br>
-</div>
-	<br>
+	
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhnDaEun&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=AhnDaEun&show_icons=true">
