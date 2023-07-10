@@ -46,9 +46,6 @@
 	<a href="dksekdms3710@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-	<a href="https://www.notion.so/Backend-Programmer-dbc41723eea5405ab9edd1900a9dcf18" >
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-	</a>
 	<br>
 </div>
 	<br>
